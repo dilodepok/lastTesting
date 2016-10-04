@@ -1,0 +1,18 @@
+var data = [
+  {
+    "nama": "Dino Damara",
+	"hobi" : "mewarnai",
+    "umur": "22"
+  },
+  {
+    "nama": "Yoga",
+	"hobi": "melukis",
+    "umur": "20"
+  },
+  {
+   "nama": "Bima",
+   "hobi": "Berenang",
+   "umur": "28"
+  }
+];
+
